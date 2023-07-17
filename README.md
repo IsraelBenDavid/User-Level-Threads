@@ -11,9 +11,10 @@ This repository contains the implementation of a User-Level Threads Library (uth
 ## Getting Started
 To get started with using the User-Level Threads Library, follow these steps:
 
-1. Clone the repository: git clone https://github.com/example/uthreads.git
+1. Clone the repository:
+   ``` git clone https://github.com/IsraelBenDavid/User-Level-Threads.git ```
 2. Include the uthreads.h header file in your project.
-3.Build the library using the provided Makefile: make
+3. Build the library using the provided Makefile: make
 4. Link against the generated static library libuthreads.a.
 5. Use the library functions to create and manage threads in your program.
 
